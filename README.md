@@ -9,7 +9,7 @@ This research focuses on the field of Human Activity Recognition (HAR), utilizin
 
 3. An additional field is included as the label, indicating the corresponding activity or class.
 
-Code Description: 
+🔗Code Description: 
 1. Load_data:
 Combine various types of data, e.g., acceleration, angular rate, gravity.
 
